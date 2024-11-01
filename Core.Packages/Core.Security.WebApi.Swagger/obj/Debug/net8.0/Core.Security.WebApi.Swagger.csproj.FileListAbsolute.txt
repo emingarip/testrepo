@@ -1,0 +1,13 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\bin\Debug\net8.0\Core.Security.WebApi.Swagger.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\bin\Debug\net8.0\Core.Security.WebApi.Swagger.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\bin\Debug\net8.0\Core.Security.WebApi.Swagger.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\refint\Core.Security.WebApi.Swagger.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\Core.Security.WebApi.Swagger.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security.WebApi.Swagger\obj\Debug\net8.0\ref\Core.Security.WebApi.Swagger.dll

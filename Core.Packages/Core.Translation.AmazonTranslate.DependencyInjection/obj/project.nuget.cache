@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCj7N21dOiQ=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Translation.AmazonTranslate.DependencyInjection\\Core.Translation.AmazonTranslate.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emin\\.nuget\\packages\\awssdk.core\\3.7.400.45\\awssdk.core.3.7.400.45.nupkg.sha512",
+    "C:\\Users\\emin\\.nuget\\packages\\awssdk.translate\\3.7.400.45\\awssdk.translate.3.7.400.45.nupkg.sha512",
+    "C:\\Users\\emin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

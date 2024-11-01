@@ -1,0 +1,12 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\bin\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\bin\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\bin\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.Logging.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\Core.CrossCuttingConcerns.Logging.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Logging.Abstraction\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.Logging.Abstraction.dll

@@ -1,0 +1,13 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll

@@ -1,0 +1,12 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\bin\Debug\net8.0\Core.CrossCuttingConcerns.Exception.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\bin\Debug\net8.0\Core.CrossCuttingConcerns.Exception.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\bin\Debug\net8.0\Core.CrossCuttingConcerns.Exception.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.Exception.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\Core.CrossCuttingConcerns.Exception.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.CrossCuttingConcerns.Exception\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.Exception.dll

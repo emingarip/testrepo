@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\bin\Debug\net8.0\Core.Localization.Resource.Yaml.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\bin\Debug\net8.0\Core.Localization.Resource.Yaml.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\bin\Debug\net8.0\Core.Localization.Resource.Yaml.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\bin\Debug\net8.0\Core.Localization.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\bin\Debug\net8.0\Core.Localization.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Loc.28054BC6.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\refint\Core.Localization.Resource.Yaml.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\Core.Localization.Resource.Yaml.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.Resource.Yaml\obj\Debug\net8.0\ref\Core.Localization.Resource.Yaml.dll

@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\bin\Debug\net8.0\Core.Localization.WebApi.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\bin\Debug\net8.0\Core.Localization.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\bin\Debug\net8.0\Core.Localization.WebApi.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\bin\Debug\net8.0\Core.Localization.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\bin\Debug\net8.0\Core.Localization.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Loc.BB63ADEF.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\refint\Core.Localization.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\Core.Localization.WebApi.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Localization.WebApi\obj\Debug\net8.0\ref\Core.Localization.WebApi.dll

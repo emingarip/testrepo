@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\bin\Debug\net8.0\Core.Mailing.MailKit.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\bin\Debug\net8.0\Core.Mailing.MailKit.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\bin\Debug\net8.0\Core.Mailing.MailKit.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\bin\Debug\net8.0\Core.Mailing.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\bin\Debug\net8.0\Core.Mailing.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mai.41D3B8B8.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\refint\Core.Mailing.MailKit.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\Core.Mailing.MailKit.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Mailing.MailKit\obj\Debug\net8.0\ref\Core.Mailing.MailKit.dll

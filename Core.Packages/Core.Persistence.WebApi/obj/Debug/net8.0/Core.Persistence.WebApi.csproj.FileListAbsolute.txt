@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\bin\Debug\net8.0\Core.Persistence.WebApi.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\bin\Debug\net8.0\Core.Persistence.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\bin\Debug\net8.0\Core.Persistence.WebApi.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\bin\Debug\net8.0\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\bin\Debug\net8.0\Core.Persistence.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Per.1FFD1450.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\refint\Core.Persistence.WebApi.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\Core.Persistence.WebApi.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.WebApi\obj\Debug\net8.0\ref\Core.Persistence.WebApi.dll

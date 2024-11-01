@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vK+OtAskbHQ=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Localization.Resource.Yaml.DependencyInjection\\Core.Localization.Resource.Yaml.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\emin\\.nuget\\packages\\yamldotnet\\16.1.3\\yamldotnet.16.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

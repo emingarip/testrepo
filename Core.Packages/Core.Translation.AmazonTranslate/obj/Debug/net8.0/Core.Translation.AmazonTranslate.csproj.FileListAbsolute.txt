@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\bin\Debug\net8.0\Core.Translation.AmazonTranslate.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\bin\Debug\net8.0\Core.Translation.AmazonTranslate.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\bin\Debug\net8.0\Core.Translation.AmazonTranslate.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\bin\Debug\net8.0\Core.Translation.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\bin\Debug\net8.0\Core.Translation.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Tra.C9DB4413.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\refint\Core.Translation.AmazonTranslate.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\Core.Translation.AmazonTranslate.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.AmazonTranslate\obj\Debug\net8.0\ref\Core.Translation.AmazonTranslate.dll

@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\bin\Debug\net8.0\Core.Persistence.DependencyInjection.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\bin\Debug\net8.0\Core.Persistence.DependencyInjection.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\bin\Debug\net8.0\Core.Persistence.DependencyInjection.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\bin\Debug\net8.0\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\bin\Debug\net8.0\Core.Persistence.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Per.D780633D.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\refint\Core.Persistence.DependencyInjection.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\Core.Persistence.DependencyInjection.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Persistence.DependencyInjection\obj\Debug\net8.0\ref\Core.Persistence.DependencyInjection.dll

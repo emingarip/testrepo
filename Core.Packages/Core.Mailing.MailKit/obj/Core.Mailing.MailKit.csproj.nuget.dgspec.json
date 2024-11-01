@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing.MailKit\\Core.Mailing.MailKit.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing.MailKit\\Core.Mailing.MailKit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing.MailKit\\Core.Mailing.MailKit.csproj",
+        "projectName": "Core.Mailing.MailKit",
+        "projectPath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing.MailKit\\Core.Mailing.MailKit.csproj",
+        "packagesPath": "C:\\Users\\emin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing.MailKit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\Visual Studio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\Core.Mailing.csproj": {
+                "projectPath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\Core.Mailing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\Core.Mailing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectName": "Core.Mailing",
+        "projectPath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\Core.Mailing.csproj",
+        "packagesPath": "C:\\Users\\emin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\KM103\\PersonalPortfolio\\src\\Core.Packages\\Core.Mailing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\Visual Studio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

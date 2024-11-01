@@ -1,0 +1,16 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.AssemblyReference.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Persistence.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Persistence.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Sec.BBB94791.Up2Date
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\refint\Core.Security.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Security\obj\Debug\net8.0\ref\Core.Security.dll

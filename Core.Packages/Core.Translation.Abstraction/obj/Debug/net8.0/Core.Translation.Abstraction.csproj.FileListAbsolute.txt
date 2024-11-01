@@ -1,0 +1,12 @@
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\bin\Debug\net8.0\Core.Translation.Abstraction.deps.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\bin\Debug\net8.0\Core.Translation.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\bin\Debug\net8.0\Core.Translation.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.AssemblyInfoInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.AssemblyInfo.cs
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.csproj.CoreCompileInputs.cache
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.sourcelink.json
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\refint\Core.Translation.Abstraction.dll
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\Core.Translation.Abstraction.pdb
+E:\Projects\KM103\PersonalPortfolio\src\Core.Packages\Core.Translation.Abstraction\obj\Debug\net8.0\ref\Core.Translation.Abstraction.dll
